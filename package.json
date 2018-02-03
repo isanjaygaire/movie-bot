@@ -1,0 +1,16 @@
+{
+  "name": "seiem",
+  "version": "1.0.0",
+  "description": "A Movie and Tv show chat reoomand",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
+}
